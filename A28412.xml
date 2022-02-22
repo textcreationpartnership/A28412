@@ -1,0 +1,778 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Bloody murtherer, or, The unnatural son his just condemnation at the assizes held at Monmouth, March 8, 1671/2 with the suffering of his sister and servant, for the murther of his mother, Mrs. Grace Jones, for which the said son was prest to death, his sister burnt, and his boy hang'd : with a true accompt of their trials, penitent behaviour, prayers, speeches, and circumstances thereunto relating : with letters of several worthy divines.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 87 KB of XML-encoded text transcribed from 39 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28412</idno>
+            <idno type="STC">Wing B3259</idno>
+            <idno type="STC">ESTC R18868</idno>
+            <idno type="EEBO-CITATION">12258330</idno>
+            <idno type="OCLC">ocm 12258330</idno>
+            <idno type="VID">57635</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28412)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57635)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 168:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Bloody murtherer, or, The unnatural son his just condemnation at the assizes held at Monmouth, March 8, 1671/2 with the suffering of his sister and servant, for the murther of his mother, Mrs. Grace Jones, for which the said son was prest to death, his sister burnt, and his boy hang'd : with a true accompt of their trials, penitent behaviour, prayers, speeches, and circumstances thereunto relating : with letters of several worthy divines.</title>
+               </titleStmt>
+               <extent>[4], 62 [i.e 60] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by H. Lloyd for Jonathan Edwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The murderer was Henry Jones.</note>
+                  <note>Advertisement: p. 62.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jones, Henry, d. 1672.</term>
+               <term>Jones, Grace, d. 1671.</term>
+               <term>Bridges, George, d. 1672.</term>
+               <term>Murder --  Wales.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:57635:1" rendition="simple:additions"/>
+            <p>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> BLOODY MURTHERER, OR, THE UNNATURAL SON HIS <hi>Iuſt Condemnation.</hi>
+            </p>
+            <p>
+               <hi>At the Aſſizes Held at</hi> Monmouth, MARCH 8. 1671/2.</p>
+            <p>With the Suffering of his Siſter and Servant, For the MURTHER of his Mother, Mrs. GRACE JONES.</p>
+            <p>FOR WHICH The ſaid Son was preſt to Death, his Siſter burnt, and his Boy Hang'd.</p>
+            <p>WITH A True Accompt of their TRIALS, Penitent Behaviour, Prayers, Speeches, and Circumſtances thereunto Relating; With Letters of ſeveral Worthy DIVINES.</p>
+            <q>
+               <l>Filius ante Diem — Quis iſta legendo</l>
+               <l>Temperet <hi>à</hi> Lachrymis—</l>
+            </q>
+            <p>
+               <hi>By Allowance.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>H. Lloyd</hi> for <hi>Jonathan Edwin</hi> at three <hi>Roſes</hi> in <hi>Ludgat-ſtreet.</hi> 1672.</p>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:57635:2"/>
+            <pb facs="tcp:57635:2"/>
+            <head>A POEM upon the late Execrable Murther com<g ref="char:EOLhyphen"/>mitted by <hi>Henry Jones</hi> (and his Confederate Boy <hi>George Bridges) Octob.</hi> 11, 1671. upon his Mother Mrs. <hi>Grace Jones</hi> of <hi>Monmouth</hi> Widow, and their deſerved Executions, the one <hi>March</hi> 11. the other <hi>March</hi> 16. 1671/2.</head>
+            <l>AND did a Piſtol-ſhot diſtain the Ground</l>
+            <l>With crimſon Gore, ſhowr'd from the guſhing wound</l>
+            <l>Of a fond Mother, which aloud did cry,</l>
+            <l>And with revengeful language pierce the sky;</l>
+            <l>And was this horrid Matchleſs Murther done,</l>
+            <l>To a kind Mother by an unkind ſon?</l>
+            <l>A ſon! how Admiration ſtruck mine eyes,</l>
+            <l>And all my apprehenſive faculties,</l>
+            <l>When I beheld the man! transform'd with wonder,</l>
+            <l>Senſleſs I ſtood, as one ſtruck down with Thunder.</l>
+            <l>This barb'rous Act in never dying Rimes,</l>
+            <l>Shall be tranſmitted to ſucceeding times;</l>
+            <l>And (whilſt the glittering Orbs in Order roul</l>
+            <l>Their burning rayes about the fixed Pole,)</l>
+            <l>Be Annaliz'd in the black Rolls of Fame,</l>
+            <l>As a Memorial of the fouleſt ſhame.</l>
+            <l>Monſter of men! what made thee to decoy</l>
+            <l>Thy Parent to deſtruction, and thy Boy?</l>
+            <l>Ah! was thy heart hew d from a <hi>Parian</hi> Rock,</l>
+            <l>Or to it did curſ'd Nature ſet a Lock.</l>
+            <pb facs="tcp:57635:3"/>
+            <l>To Shut out pity? was it walld with braſs?</l>
+            <l>Or much more Steel'd then Salvage <hi>Nero</hi>'s was?</l>
+            <l>Could nothing but thy Mothers Blood ſupply</l>
+            <l>Th' ambitious thirſt of thy inſatiate eye?</l>
+            <l>Deluded wretch! experience lets thee know.</l>
+            <l>That thou art ruin'd by her overthrow:</l>
+            <l>And that thy big-womb'd wife, might be poſſeſſ'd</l>
+            <l>Of dear-bought lands, thou terribly art preſſ'd,</l>
+            <l>(Diſmall effects of love!) with maſſy ſtones:</l>
+            <l>O what ſad ends attend Sanguineous ones!</l>
+            <l>And thou, vile Boy, who did'ſt reſcind the throat</l>
+            <l>Of thy head wounded Myſtriſs, thou haſt got</l>
+            <l>A ſhamefull death to thy foul practice due,</l>
+            <l>And now the Maſter of the damned crew</l>
+            <l>Payes thee thy wages, (if thou didſt not make</l>
+            <l>Thy peace with God) in the infernal Lake.</l>
+            <l>Thou didſt do well to clear the Maid from guilt,</l>
+            <l>But better, if her blood thou hadſt not ſpilt.</l>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:57635:3"/>
+            <head>The Wicked Life, Horrid Mur<g ref="char:EOLhyphen"/>ther, and Penitent Death of <hi>HENRY JONES:</hi>
+            </head>
+            <p>ALthough the unhappy Times we live in, (which may not unfitly be term<g ref="char:EOLhyphen"/>ed the very Ruſt of the Iron-age) are too pregnant with ſad inſtances of prodigious Crimes, and unpa<g ref="char:EOLhyphen"/>rallel'd Villanies, Men ſtriving with a curſed E<g ref="char:EOLhyphen"/>mulation to out-vie each other in wickedneſs; And that crying Scarlet-ſin of Murther ſo over<g ref="char:EOLhyphen"/>flows (like a torrent) almoſt in every ſtreet; That it ſeems to many but a piece of Gallantry to ſtab at the Majeſty of God by killing and de<g ref="char:EOLhyphen"/>ſtroying Man, his Image; yet ſhall we ſeldom meet with any Impiety, ſwell'd to that height in all Circumſtances, as this which at preſent hath engaged our Pen. An Action that at once infringes all Bonds of Gratitude, and Obligati<g ref="char:EOLhyphen"/>ons of Humanity; and violates the Tyes of Na<g ref="char:EOLhyphen"/>ture as well as the Dictates of Grace; ſo ſtrange and lamentable, ſo cruel and execrable, that it needs no flouriſh of words, or Epithets, to ren<g ref="char:EOLhyphen"/>der it odious, but is in it ſelf ſo tranſcen<g ref="char:EOLhyphen"/>dently abominable, as it is uncapable of being aggravated by any Rhetorick; for who hears
+<pb n="2" facs="tcp:57635:4"/> of a Mother wilfully murther'd by her own Son, but his ſenſes ſtartle, and his heart is inſtantly brimful of horrour and indignation.— The per<g ref="char:EOLhyphen"/>fect Narrative of this deplorable Fact, with its concomitant circumſtances, we undertake, not out of prejudice to the deceaſed Malefactor, who having partly ſatisfied the Law, by yielding up his body to death here on earth; hath (as we hope, and have no weak Grounds to believe, as ſhall appear in the ſequel) obtained a Pardon al<g ref="char:EOLhyphen"/>ſo of Almighty God for ſuch his grievous ſin, that his Soul may live for ever in Heaven. Nor do we publiſh it to gratifie their liquoriſh Fan<g ref="char:EOLhyphen"/>cies, who delight in hearing ſtrange ſtories, or to furniſh the already too talkative World with more vain Diſcourſes; But to the end, that the Readers obſerving herein (as in a Chryſtal Mir<g ref="char:EOLhyphen"/>rour) the variety and violence of the Devils temptations; And the Allurements of ſin, where<g ref="char:EOLhyphen"/>with theſe poor Creatures (the Authors and Act<g ref="char:EOLhyphen"/>ors of this horrid Butchery) ſuffered themſelves to be ſeduced with the Miraculous detection, and ſe<g ref="char:EOLhyphen"/>vere puniſhment of the ſame; Nay, by the ter<g ref="char:EOLhyphen"/>rours thereof be for the future retained within the liſts of Charity towards Men, filial reſpect and duty towards their Parents and Superiors, and (which includes all) religious obedience towards God and his Commandments: And I hope the World (wicked and inſenſible as it is) hath not yet ſo totally renounced and abandoned all Ver<g ref="char:EOLhyphen"/>tue,
+<pb n="3" facs="tcp:57635:4"/> Piety and Prudence, as not a little by theſe Examples to reflect; and imitate the wiſe and skilful Pilot, who mourns to ſee the Rocks whereon his fellow-Voyagers have ſuffered ſhip<g ref="char:EOLhyphen"/>wrack; and yet again rejoyceth, that by the ſight thereof he may avoid his own; Laſtly, that we may all admire the Riches of Gods Grace, which denies not to receive the vileſt and moſt crimſon ſinners, whenever they with a ſincere and hearty Repentance make their Addreſſes to his Throne for mercy and forgiveneſs.</p>
+            <p>The principal Actor in this barbarous Tragedy was <hi>Henry Jones,</hi> the ſon of <hi>Thomas Jones,</hi> late of <hi>Monmouth</hi> in <hi>Southwales,</hi> and <hi>Grace</hi> his Wife; Parents miſerably unhappy to bring into the World ſo ungrateful and unnatural a Wretch, that juſtly came to ſuffer an ignominious death, for bereaving her of life, from whom he thus de<g ref="char:EOLhyphen"/>rived his own: It were no leſs injury to truth, then affront to the Countrey of his Nativity, ſhould we deny him to be by deſcent a Gentleman, his Father being a Perſon of a competent eſtate, and good repute in thoſe Parts: But alas! what a ſorry and contemptible Glory is it, to bear only the empty names and painted Coats of Generous Anceſtors, whilſt we by neglecting the imitati<g ref="char:EOLhyphen"/>on of thoſe vertues that firſt made them eminent, diſgrace their Memories, and commit Actions more vile then the baſeſt of the plebeian Rabble.
+<pb n="4" facs="tcp:57635:5"/> His Provident Father conſidering, That no qua<g ref="char:EOLhyphen"/>lity does more adorn or embelliſh then Learning, took particular care to have his greener years ſeaſoned with the Rudiments of Literature, which one would have thought ſhould have ſer<g ref="char:EOLhyphen"/>ved him for the more regular Conduct of his fu<g ref="char:EOLhyphen"/>ture life; and rein'd him in from ſuch match<g ref="char:EOLhyphen"/>leſs enormities; But Learning alone, without being grafted on a ſtock of good natural Parts, and watered with the dew of Heavenly Grace, is commonly not only barren of happy fruit, but very dangerous whilſt it puffs up its empty-head<g ref="char:EOLhyphen"/>ed Poſſeſſors, and makes them ſelf-will'd, conceit<g ref="char:EOLhyphen"/>ed, and temerarious in their undertakings: He was no ſooner arriv'd to that Age, which loyally (though not always truly) entitles us to diſ<g ref="char:EOLhyphen"/>cretion, but he was freed from the Tyranny of the Rod and Ferula, and Articl'd with an At<g ref="char:EOLhyphen"/>torney; an Imploy not unlike to continue and thrive, ſince Pride, Fraud, Malice, Revenge and Contention do daily increaſe amongſt Neigh<g ref="char:EOLhyphen"/>bours. But—
+<q>
+                  <l>—<hi>Ludit in Humanis divina Potentia rebus.</hi>—</l>
+                  <l>We fondly to our ſelves great things propoſe,</l>
+                  <l>But their Events 'tis Heaven alone that knows.</l>
+               </q>
+            </p>
+            <p>Whilſt his careful and Indulgent Parents feed themſelves with hopes of his riſing by the Law; 'Tis (alas!) his deſtiny moſt wretchedly to fall by it; He wore out his five years Tearm with his Maſter, without any thing worthy of <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> unleſs we ſhall ſay, that by keeping de<g ref="char:EOLhyphen"/>bauched
+<pb n="5" facs="tcp:57635:5"/> Company, learning to drink, and other Extravagancies too frequently practiſed by ſome, (I had almoſt ſaid in this ſeducing Age, by moſt) young Cl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rks; he then laid a founda<g ref="char:EOLhyphen"/>tion for the ſad Superſtructure of his ſucceed<g ref="char:EOLhyphen"/>ing life, and that his ruine may perhaps not a<g ref="char:EOLhyphen"/>miſs be calculated from thence—. After the Expi<g ref="char:EOLhyphen"/>ration of his ſaid Tearm, he continued ſome time in <hi>London,</hi> making Addreſſes and Courtſhip to ſeveral Women; but not ſucceeding herein, and his father being lately dead, leaving him ſome eſtate, though it ſeems, not enough to ſatisfie his boundleſs deſires: He thereupon returns home to <hi>Monmouth,</hi> and married the Daughter of a <hi>Gloceſter</hi>-ſhire Gentleman, with whom (as 'tis reported) he had a competent Portion; and one that (had it ſtood with the Decrees of Provi<g ref="char:EOLhyphen"/>dence) ſeem'd to deſerve a better Match, ſince Fame gives her the commendable Character of vertuous and diſcreet: But ſince Marriages are firſt ordained in Heaven before they are con<g ref="char:EOLhyphen"/>ſummated on Earth, 'tis equal vanity in any that have ſubmitted their Necks to that yoke, to murmur and complain: As 'tis for Bowlers, when they have made their Caſt, to cry, either <hi>Rub</hi> or <hi>Fly:</hi> Heaven to ſome gives agreeable and happy Conſorts to aſſiſt and ſupport their weakneſſes; to others lewd and unequal Yoke-fellows, for the trial of their patience: The firſt have Reaſon to applaud its mercy in Hymns of Thanksgiving; the laſt, to evidence their own
+<pb n="6" facs="tcp:57635:6"/> obedience, by a cheerful ſubmiſſion in the diſ<g ref="char:EOLhyphen"/>charge of their Duties.</p>
+            <p>The old Gentleman his father, being very ten<g ref="char:EOLhyphen"/>derly affectionate towards his wife, and having o<g ref="char:EOLhyphen"/>ther children fot her to maintain, left her at his death an eſtate of about 100 <abbr>l.</abbr> 
+               <hi>per ann.</hi> for life, that was afterwards to deſcend to the ſaid <hi>Henry</hi> her ſon, which brings us directly to the occaſion that firſt excited this inconſiderate wicked young Man to the horrid thoughts of murthering her.</p>
+            <p>He found this rate of living, above what his eſtate or Practice of Law, (which he followed in the Country) could maintain, and would often be borrowing money of his Mother, ſomtimes pre<g ref="char:EOLhyphen"/>tending one urgent occaſion, and then another, which ſhe, like a kind Mother, for ſeveral times very readily ſupply'd him with.</p>
+            <p>At laſt, finding by his often requeſts her ſmall Exchequer would ſoon be exhauſted, and that he waſted it vainly and profuſely, ſhe grew more re<g ref="char:EOLhyphen"/>ſerved, and leſs free to part with her money, which put him into a rage: and the devil takes hold of the opportunity to mind him of 100 <abbr>l.</abbr> 
+               <hi>per ann.</hi> to come to him after her death, and ſuggeſted, that ſhe liv'd too long: hereupon without fear of God, or regard to his ſoul, he like an unnatural Villain, entertains thoughts of ſending her out of the world; helliſh thoughts and infernal reſolutions! which will not
+<pb n="7" facs="tcp:57635:6"/> only ſtrangle thoſe that embrace, but con<g ref="char:EOLhyphen"/>found all that hearken to them: he conſults about this bloody buſineſs with his will, not his conſcience: with his wicked heart, but not with his precious ſoul: His faith is ſo weak towards God, and ſo ſtrong with the devil, that he will not retire with grace, but ad<g ref="char:EOLhyphen"/>vance with impiety: His wilde youth hath no regard to her Reverend Age, nor hath all the blood that ſtreams in his veins power to prompt him that 'tis derived from hers, which he goes about moſt inhumanely to ſpill: he is helliſhly reſolved on the matter, and now proceeds to the manner of her Tragedy: He propoſes to himſelf ſeveral ways for to murther her, and the Devil who is never abſent on ſuch helliſh occaſions, makes him as well induſtrious as vindictive and implacable in the contriving and finiſhing it: At laſt, ha<g ref="char:EOLhyphen"/>ving a ſervant, a Boy of about fifteen years of Age, named <hi>George Bridges;</hi> the ſon, as is reported, of a Butcher, he reſolves to make him his Confederate and Confident in this black de<g ref="char:EOLhyphen"/>ſign, whereupon preparing him with fair words, obliging him to ſecrecie, with horrid Oathes and Imprecations, and tempting him with a Pro<g ref="char:EOLhyphen"/>miſe of five pounds in Money, and a new ſuit of Cloathes for his infernal ſervice in the bu<g ref="char:EOLhyphen"/>ſineſs; he diſcovers to him his intentions of kil<g ref="char:EOLhyphen"/>ling his Mother, and engag'd him therein: But ſhe ſeldom going forth they knew not how to bring
+<pb n="8" facs="tcp:57635:7"/> about their wicked purpoſe, though for a Moneth together they waited for an opportuni<g ref="char:EOLhyphen"/>ty. At laſt he inſpires them with a ſtratagem, which took effect to all their Ruines. Thi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wicked Son and his young Villain privately ſteal ſeveral Sheaves of Corn out of a Barn his Mother had in the Fields, not above a quar<g ref="char:EOLhyphen"/>ter of a Mile diſtant from <hi>Monmouth</hi> Town, and carry them down to a ſmall Wood, about two Furlongs beyond the ſaid Barn, on a River<g ref="char:EOLhyphen"/>ſide call'd <hi>Munnow,</hi> being a place deſigned for Executing their Inhumane Villiany; having thus laid the Train, and ſpread his Nets for the Life of his Innocent Mother, this graceleſs Son on <hi>Wedneſday,</hi> the Eleventh of <hi>October</hi> laſt paſt, (like a curſed Hypocrite) under the officious and ſpecious pretences of care and di<g ref="char:EOLhyphen"/>ligence, invites his tender Mother to her own bloody Funeral, coming and acquainting her, that ſhe had certainly loſt Corn out of her afore<g ref="char:EOLhyphen"/>ſaid Barn, and that he had often told her ſo, but ſhe would never beleeve it; but now he could make it appear, if ſhe would be pleaſed to go with him thither, and that ſhe would do very well to look after it: Here<g ref="char:EOLhyphen"/>upon through his much importunity ſhe conde<g ref="char:EOLhyphen"/>ſcended and went with him towards the Even<g ref="char:EOLhyphen"/>ing in her Slippers to the Barn, where ſeeing Corn ſcattered towards the afore-mentioned Wood, he told her it was gone that way to his knowledge; for (ſays he) if you go but a little
+<pb n="9" facs="tcp:57635:7"/> further, you ſhall find ſeveral Sheaves of your Wheat, which ſhe yielding to, came to the Wood-ſide, but was very unwilling to go in, till by his Intreaties ſhe was prevail'd upon; and, according to his Stories, found indeed ſeveral Sheaves, but meets alſo with a Death no leſs cruel then unexpected; for as ſhe was ſtooping to take up ſome of the ears of Corn, and rubbing them in her hands to ſee whether they were threſh'd or no, this graceleſs, inhumane, and unnatural Wretch, her Son, attended with his a<g ref="char:EOLhyphen"/>foreſaid Confederate <hi>George Bridges,</hi> who had waited on them thither, diſcharges a Piſtol at her, from which ſhe received a mortal ſhot, with a ſlug or loget, in the right ſide of her head, a<g ref="char:EOLhyphen"/>bout an inch above her ear, the ſlug remaining in her head; the Wound was found, when prob'd by Chyrurgions to be about ſix inches in length; ſhe falling down, they for the preſent left her; but fearing, it ſeems, they had not compleatly done their work; about two houres after they return, and though one would have thought the direful Reflections on what they had done, might have rais'd in them a Conſternation, and the ghaſtly ſpectacle of a Murthered Mother, touch'd and ſomewhat mollified the obdurate heart of this wicked ſon: yet contrariwiſe, ſo little were they diſmay'd thereat, and ſuch ſmall Impreſſion could this woful Object make on their ſavage ſpirits. That theſe ſons of darkneſs fell afreſh to their bloody banquet, (it being then about 9. of the
+<pb n="10" facs="tcp:57635:8"/> Clock the ſame Evening) when the amazed and bluſhing Sun had withdrawn it ſelf far enough from beholding ſo foul and barbarous an Action; And then the young Aſſaſſinate, <hi>George Bridges</hi> (young in<g ref="char:EOLhyphen"/>deed in years, but old in wickedneſs) ſteps on <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e bloody ſtage to preſent the ſecond Act of this moſt lamentable Tragedy; for doubting ſhe was not yet quite dead, and her ſoul fully diſpatch'd into the other world; this young ſon of <hi>Belial, George Bridges,</hi> with a Knife cuts her throat, making a Tranſciſion about five inches long, clear through the great Ar<g ref="char:EOLhyphen"/>tery and Jugular veins; and (as 'tis credibly related) this Imp of Hell, a ſtranger to Grace, and Rebel to Nature, ſcoffingly told his Maſter on that horrid oc<g ref="char:EOLhyphen"/>caſion, <hi>That his Mothers throat cut as tough as an old Ewes:</hi> and here 'tis obſervable how theſe two wretch<g ref="char:EOLhyphen"/>ed creatures could be ſo hardned in wickedneſs, and bold in villany, as to have the impious courage to re<g ref="char:EOLhyphen"/>turn unto the place and perſon where they had ſo lately committed ſuch an abomination; for although their Guide and Conductor the black Prince of the Air, aſſiſted them with the obſcurity of Night, yet every Bird and Buſh might, methinks, have ſtrucken Terror in their conſcious ſouls, and they might by time have reflected on what they had done, and con<g ref="char:EOLhyphen"/>ſider'd they had b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en hatching Cockatrice-Eggs, and weaving the Spiders web. But God was not i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all their thoughts, and the Divel had lull'd the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ear<g ref="char:EOLhyphen"/>ed conſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ences into a lethargick Slumber not to be awakened but with Thunder, their thoughts were wholly th<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ghts of Blood, waſting and deſtruction
+<pb n="11" facs="tcp:57635:9"/> were in their paths, which in ſhort time fell on their own heads; this being done, the ſon then took from her what money ſhe had about her (reported to be a<g ref="char:EOLhyphen"/>bout 5 li. enough to pay the Villain his promiſed re<g ref="char:EOLhyphen"/>ward that aſſiſted in her murther) and ſeveral Rings off her fingers, which Providence after order'd partly to diſcover it; then they endeavor'd to drag her dead body to the before-mention'd river <hi>Munnow</hi> (hard by the wood-ſide) but it prov'd too heavy for them, or on I know not what other conſiderations, they at laſt left it neer the place where they did the Fact; the boy went to the farm-houſe of his ſlain Myſtriſs near the wood, &amp; the ſon home to her houſe in <hi>Monmouth,</hi> who coming to the door, gave a little rap with his fingers, his Siſter <hi>Mary</hi> who ſtay'd up for him, preſently let him in (as 'twas afterwards prov'd againſt her at the <hi>Aſſizes</hi>) &amp; that night waſh'd his bloody clothes: Next morning early, on <hi>Thurſday Octob.</hi> 12. a poor woman of <hi>Monmouth</hi> going into this Wood to gather ſome ſticks, ſaw this dead body, and approching neer, fo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd it to be Mrs. <hi>Jones</hi> whom ſhe well knew, and therup<g ref="char:EOLhyphen"/>on returning back, acquainted the Magiſtrates, that in ſuch a wood lay ſuch a perſon murther'd, on which they went to the houſe of Mrs. <hi>Grace Jones,</hi> and found her ſon <hi>Henry</hi> in bed, and told him they heard his Mo<g ref="char:EOLhyphen"/>ther was murther'd; he made ſtrange of it, and ſeem'd to be much troubled at it: but going with the townſ<g ref="char:EOLhyphen"/>men to the place where his mother lay dead, by her was found ſeveral footſteps, and meaſuring the feet of them that were preſent, they found thoſe footſteps <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o fit the feet of <hi>Henry Jones,</hi> and ſuſpecting him <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be concerned, they charged him with the murther,
+<pb n="12" facs="tcp:57635:10"/> and had him and his Man before two or three Ju<g ref="char:EOLhyphen"/>ſtices met for that purpoſe, who examin'd firſt the Boy, and then the Maſter; the Boy confeſs'd that his Maſter ſhot her in the head, and the Maſter ſaid the Boy cut her throat; and ſo the one impeach'd the o<g ref="char:EOLhyphen"/>ther. After this, the daughter <hi>M. Jones</hi> was taken into examination, ſuſpecting her to be guilty with her brother in this Murther, not only for beating of the little children for crying, and making enquiry for their mother, but for waſhing her Brothers bloo<g ref="char:EOLhyphen"/>dy cloaths, and endeavoring to conceal her mothers death; yet ſome friends thinking her to be innocent became Bail for her, &amp; ſhewent at liberty; but with<g ref="char:EOLhyphen"/>in five or ſix weeks after ſhe made her eſcape from <hi>Monmouth,</hi> and was gone ſeveral miles towards <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> which the Bail hearing of, ſhe was purſued, ap<g ref="char:EOLhyphen"/>prehended and carried back again, where ſhe was committed priſoner till the next Aſſizes, together with her brother and the ſaid <hi>George Bridges.</hi>
+            </p>
+            <p>After Mr. <hi>Jones</hi>'s commitment, ſeveral able Mini<g ref="char:EOLhyphen"/>ſters went to viſit him, <hi>viz.</hi> The Reverend and lear<g ref="char:EOLhyphen"/>ned Dr. <hi>Goodwin</hi> Miniſter of the Town of <hi>Monmouth,</hi> Mr. <hi>Pollington</hi> Miniſter of <hi>Newland,</hi> and Mr. <hi>Betham</hi> Miniſter of <hi>Whit-Church,</hi> who uſed their moſt ſtrenu<g ref="char:EOLhyphen"/>ous endeavors to make him ſenſible of the heinouſ<g ref="char:EOLhyphen"/>neſs of his ſin, with which from the firſt moment of his being taken into cuſtody, he ſeem'd to be ex<g ref="char:EOLhyphen"/>tremely affected: beſides theſe, one Mr. <hi>Jackman</hi> Mi<g ref="char:EOLhyphen"/>niſter of <hi>Newent</hi> ſent a Letter of Advice to him, which being full of excellent Matter, we ſhould not diſcharge our duty, if we did not publiſh it here <hi>verbatim,</hi> as followeth.</p>
+         </div>
+         <div type="letter">
+            <pb n="13" facs="tcp:57635:10"/>
+            <head>A Godly learned Miniſters Letter, to Mr. <hi>Jones,</hi> ſoon after he was com<g ref="char:EOLhyphen"/>mitted to priſon.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IN giving you the trouble of theſe Lines, I have no other deſign than the diſcharge of my Con<g ref="char:EOLhyphen"/>ſcience, and the awakening of yours, by a faith<g ref="char:EOLhyphen"/>ful and friendly admonition. My Office, as a Miniſter, binds me to lay out my ſelf for the ſal<g ref="char:EOLhyphen"/>vation of mens Souls? and being deeply apprehen<g ref="char:EOLhyphen"/>ſive of the danger of yours, both in reſpect of that bloody fact which you have committed, and the ſins which made God leave you to commit that unnatu<g ref="char:EOLhyphen"/>ral Murder: I could not but give you my beſt ad<g ref="char:EOLhyphen"/>vice, though at a diſtance. — Now, ſince Conviction of Sin is the firſt ſtep to Repentance: I beſeech you in the fear of God to conſider how hi<g ref="char:EOLhyphen"/>deous and gaſtly the Sin is which you have commit<g ref="char:EOLhyphen"/>ed, which had it been only of a ſtranger that had no way obliged you, might have made you go mourn<g ref="char:EOLhyphen"/>ing to your Grave. How much more then to take away the Life of her who gave you yours, that bare you in her Womb, dandled you on her Knees, and nurſed you in her boſom? Oh! of what a deep dye
+<pb n="14" facs="tcp:57635:11"/> is a Mothers Blood? what a prodigious ſin is Matri<g ref="char:EOLhyphen"/>cide! In this how have you out ſinned <hi>Cain?</hi> as much as a Mother is dearer than a Brother, and hath done more for you than a Brother or Sister can do. <hi>Can a Mother forget her Child,</hi> ſaith the Prophet, <hi>Iſa. 49.15.</hi> But can a Child forget a Mother? Could you forget what pains ſhe underwent in bearing? what trouble in nurſing? what care in providing for you? But then if you conſider yet further. How ſuddenly you thruſt her out of the world, whereby ſhe was deprived of time to put the affairs of her Soul in order, it may more humble you; and conſider, whether depriving her of ſpace to call on the Lord for mercy, you may not have hurt her Soul more than her Body, eſpecially if ſhe was taken away in an unprepared eſtate. And further, all this was done not raſhly, in your drink or paſsion; but was a premeditate and deliberate act of your Soul. Oh! how doth my Soul bleed at the conſideration of your horrid Sin; mine Eyes are not dry whilſt I write, I know not how yours are in reading it. As t'was an act of your hand, your body was guilty of the Sin; but as it was a de<g ref="char:EOLhyphen"/>liberate act, your Soul is partaker in the guilt, and both Soul and Body defiled with your Mothers blood. But alas! my Brother, the act is not all, though bloody; the corruption of Nature, and Fountain that ſent forth thoſe bitter ſtreams, is to be bewailed. The Cauſe is worſe than the Effect; that deep pol<g ref="char:EOLhyphen"/>lution of your Nature, and that corruption which
+<pb n="15" facs="tcp:57635:11"/> put on this wicked act, is to be bewailed. The ſins of your life, which provoked God to give you up to ſhed a Mothers blood, are to be lamented; It is like by committing many other ſins, and by neglecting to ſerve God, your heart came to be hardened by degrees, and ſo from one wickedneſs to another, till at laſt you adventured on this high crime. — Think then I beſeech you in how full a manner your Heart was under the dominion of the Devil; and what quiet and peaceable poſſeſsion he had of your Soul; ſo that if this ſin had not been committed, you might have periſhed for your other tranſgreſsi<g ref="char:EOLhyphen"/>ons. — And now I beſeech you to conſider, whether it doth not concern you, to think in what a woful eſtate your Soul is, when a ſtudied and de<g ref="char:EOLhyphen"/>liberate ſlaughter of a Mother, fills up the meaſure of your ſins, what hope remaineth of eſcaping Eter<g ref="char:EOLhyphen"/>nal miſery, without deep and ſound Repentance, when the Scripture ſaith expreſly, that Murderers are ſhut out of Heaven, <hi>Rev. 22.15.</hi> —</p>
+            <p>I write not this to drive you to deſpair; but to draw you to Repentance. And oh! that you would caſt your ſelf down in the duſt, and bitterly bewail this bloody and black ſin, with the ſins of your life, which prepared you for this; Oh that you would be continually on your Knees, begging for Pardon and Peace; Oh that your head were a Fountain of Tears, and that you could weep day and night for the wrong you have done, not only to your own Soul, but alſo to him that made you, and her that bare you; Great
+<pb n="16" facs="tcp:57635:12"/> ſins muſt have great Repentance; 'tis not true ex<g ref="char:EOLhyphen"/>cept it he very deep; 'tis not true except it be for all as well as ſome; 'tis not true except it be for ſin as ſin; tis not true except it bewails original corrup<g ref="char:EOLhyphen"/>tion, as <hi>Davids</hi> Repentance of his Murder and Adultery, left not his depravity unlamented, <hi>Pſal. 51.5.</hi>
+            </p>
+            <p>
+               <hi>Now that you may not miſcarry this great work of ſuch high concernment; but that your Repentance may be Repentance unto Salvation, never to be repented of. I beſeech you for Gods and your own Souls ſake, to obſerve and follow theſe directions.</hi>
+            </p>
+            <p n="1">
+               <hi>1.</hi> Beware of whatſoever may be an hindrance to the true humiliation of your Soul.</p>
+            <p>Take heed of too much company, or bad company, privacy or retiredneſs may be much for your ad<g ref="char:EOLhyphen"/>vantage; vain company will have vain diſcourſe; deſire all ſuch to depart from you, whoſe diſcourſe tends not to your Souls profit, let only ſuch be con<g ref="char:EOLhyphen"/>verſant with you, who will help you in your work, which is to fit your ſelf for an happy Eternity.</p>
+            <p n="2">
+               <hi>2.</hi> Take heed of worldly and vain diſcourſe, looſe not precious time in unprofitable talk, ſpend not your Breath otherwiſe than in penitent ſighs, groans, and prayers, and in giving warning to ſuch as come about you to avoid the ſins which brought you to this ſad condition. —</p>
+            <p n="3">
+               <hi>3</hi> Take heed of pleaſing your appetite, in taking too much drink, or in a too liberal uſe of meats, be
+<pb n="17" facs="tcp:57635:12"/> much in faſting which is an help to Prayer, and let the diet you take be moderate, and mean as becomes one that judgeth himſelf unworthy of life or comfort; abſtinence from the enjoyments of this life, is a great help and furtherance of mortification and humili<g ref="char:EOLhyphen"/>ation; Biſhop <hi>Atherton</hi> found that by ſhutting the Windows, making the room ſomewhat dark, was helpful to humiliation</p>
+            <p n="4">
+               <hi>4.</hi> Take heed of thinking that if your life pay for your Mothers, you do thereby make ſatisfaction to God; for though that be ſome ſatisfaction to the Law of the Land, yet not to God, who is only ſatis<g ref="char:EOLhyphen"/>fied by the death of his Son Jeſus Chriſt, which ſatisfaction you muſt lay hold on by Faith, and apply the blood of Chriſt to waſh away the foul ſins of your Mothers blood. — And ſuch faith cannot be ſe<g ref="char:EOLhyphen"/>parated from true repentance: therefore you muſt practice the one, that you may be aſſured of the other.</p>
+            <p n="2">
+               <hi>2.</hi> Embrace all means that may further and pro<g ref="char:EOLhyphen"/>mote you in the way and work of Repentance.</p>
+            <p n="1">
+               <hi>1.</hi> Read much in the Scriptures, and ſuch Soul-ſearching Books as may help to awaken, direct, com<g ref="char:EOLhyphen"/>fort, and further you in the way of Salvation; eſ<g ref="char:EOLhyphen"/>pecially look much into thoſe books as treat of Con<g ref="char:EOLhyphen"/>verſion, Repentance, and the laſt things, as Death, Judgment, Heaven and Hell: it would do well al<g ref="char:EOLhyphen"/>ſo to get ſuch Books as have been ſet forth of penitent Malefactors. as Biſhop <hi>Atherton, Nathaniel Butler, Thomas Savage,</hi> and others, who being caſt into Priſon for great crimes, were through Di<g ref="char:EOLhyphen"/>vine
+<pb n="18" facs="tcp:57635:13"/> mercy brought to Repentance, and left the world not without hope of Salvation; read alſo the Penetential Pſalms, and labour to get your heart affected by reading, and be not contented except you profit by it.</p>
+            <p n="2">
+               <hi>2.</hi> Meditate much on the guilt of your laſt great ſin, and the former that led you to it; waſt no thoughts about the world or worldly things, think much how God might poſsibly chaſtiſe your Parents for their worldlineſs in and by you, for whom it may be they were more careful to provide, than for their immor<g ref="char:EOLhyphen"/>tal Souls. — And think alſo of your own ingrati<g ref="char:EOLhyphen"/>tude, who requited a dear Mother ſo evil, as to take away her life, whoſe greateſt fault it may be was, that ſhe was too eager to make you great and rich in this world. — Think alſo of the ſtrict Juſtice and ſevere vengeance of God, whoſe wrath is a conſuming fire, and alſo who is a terrible aven<g ref="char:EOLhyphen"/>ger of Innocent blood, which cryeth for vengeance. — think alſo what is like to become of the Body and Soul of that poor wretch, who was your Com<g ref="char:EOLhyphen"/>panion in guilt, and who was drawn by you to be a partaker of Blood; that ſo his ſin and miſery (as well as your own, may incite and draw on to Repen<g ref="char:EOLhyphen"/>tance. —</p>
+            <p>Pray without ceaſing, for Mercy, Pardon and Peace; cry unto God for a broken and contrite heart, and ſay often with a bleeding heart, as <hi>David, Pſal. 51.14. Deliver me from blood guiltineſs O God,</hi> let prayer be your continual exerciſe. Above
+<pb n="19" facs="tcp:57635:13"/> all things pray for a ſaving ſight and ſenſe of ſin, and of your need of Chriſt. And that you may be deeply humbled as well for your other ſins as this laſt, was not your breath in unprofitable diſcourſe, which may be better ſpent this way. You have a bleſſed Eternity to provide for, and all the time you have to live on Earth, is little enough to bewail the ſins of your life, and to fit your ſelf for an everlaſt<g ref="char:EOLhyphen"/>ing ſtate. — Therefore redeem your precious time, and account every Minute of great value; be very thrifty of it: Oh let not drinking, gaming or vain talk devour thoſe precious hours which you may and ought to improve for your Eternal Salvation. Re<g ref="char:EOLhyphen"/>deem all you can from ſleep, company, vain diſ<g ref="char:EOLhyphen"/>courſe, &amp;c. and ſpend it in ſelf-examination, hu<g ref="char:EOLhyphen"/>muliation, prayer, confeſsion of ſins, and ſupplication for Mercy; Remember God upon your Bed, and me<g ref="char:EOLhyphen"/>ditate on him in the night watches; remember the greatneſs of your ſin, and the worth of your Soul, and let it be your great buſineſs to get the one pardon<g ref="char:EOLhyphen"/>ed, and the other ſaved: If Soul-helping friends come to viſit you, hold them faſt, and intreat their Prayers and Counſel, and let them not leave you till you hove reaped ſome ſpiritual benefit from them; but if worldly and carnal friends come to ſee you, ſuch as have little favour of God and Grace, diſ<g ref="char:EOLhyphen"/>miſs them ſpeedily with ſome good admonition, for the time they ſtay is like to be loſt, which you ſhould eſteem as an unvaluable Treaſure.</p>
+            <p>Laſtly, let me intreat you for your Souls ſake, and
+<pb n="20" facs="tcp:57635:14"/> by the Prayers that I have made, and the Tears I have ſhed for it, that you would not ſlightly read theſe lines which I have written, nor throw them away after once reading them; but that you would ponder on them, and endeavour to practice the in<g ref="char:EOLhyphen"/>ſtructions given you by him that deſires your Repen<g ref="char:EOLhyphen"/>tance and Salvation. And oh! that God would ſet your ſin home to your Conſcience, and ſave you from Eternal death and the wrath to come. By what I have written, you ſee, that I look not upon you as ut<g ref="char:EOLhyphen"/>terly paſt hope and help, your ſin, though great, is not unpardonable if you can truly believe and hearti<g ref="char:EOLhyphen"/>ly repent; the blood which <hi>David</hi> and <hi>Manaſſah</hi> ſhed, was upon their true Repentance forgiven. And the Arm of the Lord is not ſhortened, nor the Fountain of Mercy exhauſted; <hi>The Blood of Chriſt cleanſeth from all ſin, 1</hi> John. <hi>1.7. Though they be as Red as Scarlet, or as Crim<g ref="char:EOLhyphen"/>ſon,</hi> Iſa. <hi>1:18.</hi> You are not yet ſo far from Hea<g ref="char:EOLhyphen"/>ven; but you may by true Faith and Repentance get it. Nor are you ſo near Hell, but you may yet by the means of God eſcape it; but remember the Work you have to do is great, your time ſhort, and your ſtrength ſmall; therefore whatſoever you find in your heart to do for your Salvation, do it with all your might, <hi>Eccleſ. 9.10.</hi> you have loſt too much time already, looſe no more; but immediate<g ref="char:EOLhyphen"/>ly about this great Work, to make up the dreadful breach that is between God and your Soul, and to fit it for his glorious preſence, which that you may dili<g ref="char:EOLhyphen"/>gently
+<pb n="21" facs="tcp:57635:14"/> and faithfully perform to your everlaſting Salvation, is, and ſhall be earneſtly requeſted (whilſt you are on this ſide the Grave) by him who is</p>
+            <closer>
+               <signed>Your Souls Friend and Remembrancer, <hi>Tho. Jackman.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>Directed thus. For Mr. <hi>Henry Jones,</hi> Priſoner in <hi>Monmouth.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="account">
+            <pb n="22" facs="tcp:57635:15"/>
+            <p>BY the labours of the aforeſaid Miniſters, and the repeated peruſal of this Pathetical, Soul-ſearching, Heart-melting Letter, it pleaſed the great God in infinite Mercy, to give this de<g ref="char:EOLhyphen"/>ſperate Malefactor a ſenſe of his moſt dangerous ſtate, the grievouſneſs of his ſins, and the ne<g ref="char:EOLhyphen"/>ceſſity of a Chriſt to preſerve him from the Jaws of everlaſting deſtruction, henceforward, he was very little concerned for his body, or the pains of death it was to ſuffer; but extreamly ſollicitous about the affairs of his Soul. He was often bewailing his ſinful heart, and the Errors of his life; how much time he had wretchedly waſted in the Devils ſervice, and how little he had now to ſpend for Gods Glory and his Souls advantage, he was very diligent in reading the Holy Bible, and good Books, and very frequent and fervent in Prayer, ſome forms of which (we conceive) for the aſſiſtance of his Memory, were found after his death, in writing, in the Priſon, which take as follows.</p>
+            <div type="collection_of_prayers">
+               <pb n="23" facs="tcp:57635:15"/>
+               <p>O Almighty God, Lord of Heaven and Earth, Judge of Angels and Men, give leave to a vile, wretched and dejected Soul to come into thy preſence, who deſerves nothing but Plagues and Torment, Fire and Brimſtone, permit a trembling Malefactor to look towards thy Mercy Seat, and for Jeſus ſake attend unto my cry, and hear the voice of my Tears. O Eternal goodneſs, if thou forſakeſt me, the huge load of my ſins will ſink me into deſpera<g ref="char:EOLhyphen"/>tion, and fiery Priſon, my eſtate is moſt ſad, and pittyable, and there is none to deliver me, let thy tender Mercies ſpeedily prevent me; for I am brought very low. I am aſtoniſhed at the ſight of my Iniquities; for they are great and number<g ref="char:EOLhyphen"/>leſs, O Lord ſupport me with thy bleſſed Arms, or I ſhall fall into a Sea of miſery, and never riſe again; fear and terrours do ſurround me, and the evil ſpirits watch for my ruine: may I not, a grievous ſinner, beg one drop of comfort, who am ready to periſh, may I not pray to thee in the time of my diſtreſs, when thy fierce Waves are coming over my Soul, my penſive, fainting, and troubled Soul: I am afflicted and ready to die from my youth up, while I ſuffer thy terrors I am dictracted, wilt thou be angry with me for ever? wilt thou draw out thine anger into all Generations? moſt Gracious God, give me leave to lie at thy ſacred feet, and ſigh and mourn, and bewail my ſelf a little, before I deſ<g ref="char:EOLhyphen"/>cend
+<pb n="24" facs="tcp:57635:16"/> into my Grave, where there is no repent<g ref="char:EOLhyphen"/>ing, give me leave to confeſs my Iniquities, and beg this favour, that I may not go down into the Regions of darkneſs, and dwell with Devils, <hi>Ezek.</hi> 18.31. thou willeſt not the death of ſin<g ref="char:EOLhyphen"/>ners, thou takeſt no pleaſure in their Torments. O then Well-ſpring of Life and Salvation, who haſt promiſed pardon to the penitent, let the ſighing of the Priſoner come before thee, whoſe heart is melted in the midſt of his Bowels. I confeſs O Lord I have been proud, and pro<g ref="char:EOLhyphen"/>phane, and deſpiſed thy truths, I have been gree<g ref="char:EOLhyphen"/>dy of the world, and diſtruſted thy providence, I have made haſt to be rich, and ruined my ſelf, This O God was the bitter root from whence all my ſorrows do grow, my worldly-mindedneſs. This made me unhallow thy day, and deſpiſe Religion, the promiſes of God, and Eternal fe<g ref="char:EOLhyphen"/>licities: it was my filthy, baſe, and ſordid cove<g ref="char:EOLhyphen"/>touſneſs, which drew me to diſobedience and blood guiltineſs, which cuts me off in the midſt of my days. O that I ſhould be ſuch a Son of <hi>Belial,</hi> as to die my hands in the blood of my Pa<g ref="char:EOLhyphen"/>rent, that bore me upon her Knees, and laid me in her boſom, that I ſhould be ſuch a wretch as to ſide with the Devil, and the unrighteous Mammon in taking away her life, who groaned for me. O the fulneſs of this deed of darkneſs, which fills me with grief, horror and aſtoniſh<g ref="char:EOLhyphen"/>ment; but is there no Balm in <hi>Gilead?</hi> no
+<pb n="25" facs="tcp:57635:16"/> Phyſician there, to heal a wounded ſpirit, to ſupport a ſinking ſinner? O Father of Mercy, though my goods and life is forfeited by this Helliſh deed, let not my hopes of Heaven be left, and my precious Soul. Thou O God of truth haſt ſaid it, <hi>John</hi> 1.9. <hi>If we confeſs our ſins, thou art faithfull and juſt to forgive us our ſins, and to cleanſe us from all unrighteouſneſs</hi> And how unrighteous was I, to ſend her out of the world, who rejoyced greatly when I came into it? I ſpeak it Lord in the bitterneſs of my heart, I am the vileſt Son, the bloodyeſt Vil<g ref="char:EOLhyphen"/>lain that ever breathed in the Air. Never was <hi>Turk</hi> or <hi>Moor</hi> guilty of ſuch horrid wickedneſs; but thou ſeeſt my proſt<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ation, and thou haſt heard my groans, put my Tears into thy Bot<g ref="char:EOLhyphen"/>tle, are they not in the Books? O ſearcher of Hearts, thou knowſt it is not life, but un<g ref="char:EOLhyphen"/>faigned ſorrow, and Mercy that I implore. Burn this my fleſh, wound and deſtroy it, ſo that my Soul lie in the Arms of Jeſus. O waſh me clean in that purple River which flowed from his ſide, and let all my luſts be drowned in my ſorrows. <hi>Jer.</hi> 1.9. <hi>O that my head were Waters, and mine Eyes a Foun<g ref="char:EOLhyphen"/>tain of Tears, that I might weep day and night!</hi> O God of Patience and conſolation, look not upon the blackneſs of my crime, but upon the wounds of thy Son, who is mighty to ſave, <hi>Iſa.</hi> 63.1. for his ſake let my Prayer come before
+<pb n="26" facs="tcp:57635:17"/> thee; for my ſoul is full of troubles, and my life draweth near unto the Grave. <hi>Iſa.</hi> 63.15. <hi>Look down from Heaven, and behold from the ha<g ref="char:EOLhyphen"/>bitation of thy holineſs, and of thy Glory, where is thy zeal and thy ſtrength, the ſounding of the bow<g ref="char:EOLhyphen"/>els and of thy mercy towards me? are they reſtrain<g ref="char:EOLhyphen"/>ed?</hi>
+               </p>
+               <p>O holy Jeſus offer up my ſuit to thy Father, and plead for a Soul who begs compunction of Spirit, and thy loving kindneſs, and the additi<g ref="char:EOLhyphen"/>on of a few days to my life, that I may give teſti<g ref="char:EOLhyphen"/>mony to my friends, and the world, that I am a penitent Murderer, as <hi>David</hi> and <hi>Manaſſes,</hi> and many more, who now are in the City of God. O moſt Gracious and Merciful Father, who art unwilling that any ſhould periſh, ſpeak Peace to my troubled and guilty Soul, and heal the gaping wounds which I have made in my Conſcience, and knock off my Chains of fleſh, and take me to thy ſelf, though I become leaſt in the Kingdom of Heaven.</p>
+               <p>Ever bleſſed Jeſus, I humbly beſeech thee to ſave the Soul of my ſervant, whom I have drawn to the gates of death and miſery, by engaging him to joyn with me in ſpilling the blood of the Innocent, for the horridneſs of which I cannot weep enough, if my Tears would make a River, and riſe above its Banks, and drown the Fields
+<pb n="27" facs="tcp:57635:17"/> where I ſinned. O thou Prince of Peace, look with a favourable Eye upon thy Servants, who are bound in affliction, and Iron, may thy wounds ſatisfie for thoſe which we have given, and thy blood for that which we ſpilt, and deliver us from the Eternal Priſon, the crime, I confeſs, was hainous and deſperate; but it was I, O Lord it was I that did it, lay not my ſin to my Servants charge, but pity and pardon him for thy name ſake, and deliver him from the ſpirits of dark<g ref="char:EOLhyphen"/>neſs, and eternal damnation. O my dear Sa<g ref="char:EOLhyphen"/>viour, though we ſuffer here an ignominious death, and become objects of ſcorn and deriſion, ſpectacles to men and Angels, do thou hear and help, and forgive us, that we may ſhortly dwell in the bleſſed Regions, where we ſhall never ſin, nor ſorrow more. Do it for thy everlaſting Mercy ſake, moſt Merciful Saviour Jeſus, in whoſe name and words we further pray.</p>
+               <p>
+                  <hi>Our Father, &amp;c.</hi>
+               </p>
+               <pb n="28" facs="tcp:57635:18"/>
+               <p>O Lord <hi>I</hi> know not what to pray for as <hi>I</hi> ought, let thy Spirit help my infirmities, and enable me to offer a Spiritual Sa<g ref="char:EOLhyphen"/>crifice unto thee by Jeſus Chriſt.</p>
+               <pb n="29" facs="tcp:57635:18"/>
+               <p>O Moſt Gracious and Glorious Lord God the Saviour of the world, who art infi<g ref="char:EOLhyphen"/>nitely holy and happy, and it is from thee I muſt expect the poſſibility of being either the vileſt of thy Creatures, or the unworthieſt among ſuch as own a God. I do humbly proſtrate my ſelf before thee, confeſſing from the bottom of my heart, that I have tranſgreſſed my duty to<g ref="char:EOLhyphen"/>wards thee my Neighbour, and my ſelf, and that by neglecting to do thoſe things, that thou haſt expreſly forbidden; and this not through ignorance and frailty, but knowingly and wil<g ref="char:EOLhyphen"/>lingly againſt the motions of thy Spirit, and the checks of my own Conſcience to the contrary: and to my ſhame I confeſs that I have lifted up violent hands againſt her that bore me, being the Inſtrument to take away that life whence I derived my own, ſuch is the terror of my ſin, the ſtain of my polluted Conſcience, that no<g ref="char:EOLhyphen"/>thing but the blood of my Redeemer can waſh it. I am troubled for my ſins, and my thoughts are diſquieted within me. I pant for mine heavineſs, and all the day long I groan for my offences. <hi>Pſal.</hi> 15.14. <hi>Deliver me from guiltineſs O God, and in mercy ſave my Soul.</hi> And ſince my life hath hitherto been a preſident for the height of pride and cruelty, my actions to this remainder of my life did loudly ſay there is no God, ſince the Devil h<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> tempted me to deſtroy my body; O give me Grace to beguile
+<pb n="30" facs="tcp:57635:19"/> him of my Soul: let me henceforth be the more diligent and careful, as I have been hitherto re<g ref="char:EOLhyphen"/>miſes and wilfull, my miſery is unſpeakable: O let me not looſe my Relations and Soul too; but grant me I implore thy goodneſs, a ſincere Contrition, a hearty confeſſion and Repentance, which thou haſt promiſed, Mercy and Pardon. I have ſinned with <hi>Peter</hi> and <hi>David:</hi> O! give me their heart-melting ſorrow and Salvation, make me a great Penitent, as I have made my ſelf a great ſinner, let my Tears not only con<g ref="char:EOLhyphen"/>feſs, but my heart change from a brutiſh to a Chriſtian temper, that I out of due ſenſe of my horrid Impiety, and a ſerious apprehenſion of my guilt, which lies before me, may with all earneſt<g ref="char:EOLhyphen"/>neſs of Spirit, with all vigour and reſolution, beg, and at laſt obtain Mercy for Chriſt his ſake, who dyed upon the Croſs, to ſave ſinners, of whom I am chief, 1 <hi>Tim.</hi> 1.15. O! heal my Soul by his wounds, let his Innocence attend for my guilt, the purity of his hands propitiate for the filthineſs of mine, let his Blood ſpilt upon the Croſs, expiate for that which I have ſpilt upon the ground. O! my heart bleeds within me: I could endure a thouſand tor<g ref="char:EOLhyphen"/>ments, but a wounded Conſcience who can bear? ſo wofull, and ſo eternally miſerable is my condition, without the aſſiſtance of the Al<g ref="char:EOLhyphen"/>mighty, thou art my ſuccour and my terror; but I fly from thee, unto the; from the Tribu<g ref="char:EOLhyphen"/>nal
+<pb n="31" facs="tcp:57635:19"/> of thy Juſtice, to the boſom of thy Mercy; though the Wages of ſin is death, yet I beſeech thee for thy Mercy ſake, free me, though not from Temporal death, yet from that which is Eternal, that my Execution here, may be my paſſing to Glory. O! thou who willeſt not the death of a Sinner, ſave my Soul; though my ſins be like <hi>Manaſſes</hi> numberleſs, as the Sand, like <hi>Davids,</hi> Red as the Scarlet, yet thou canſt make me whiter than Snow, waſh me with Hyſſop, give me a ſincere compunction, and a perfect abhorrence of my wicked ſelf, that I may lay faſt hold upon Chriſt, through lively faith and repentance, and then welcome tor<g ref="char:EOLhyphen"/>ments and death it ſelf, then though I die, I ſhall live to this end and purpoſe, to enlighten my mind and dark underſtanding with thoſe graces that are requiſite for a dying man, let thy preventing Graces keep me from the Devil, my former confederate, and now my adverſary. O! give me Grace, not to yield any more to his ſuggeſtions: Let him not betray my Soul; but that I may ſtand upon my guard, and baffle all his aſſaults, that as he overcame me here, I may live to conquer him, and at my death tri<g ref="char:EOLhyphen"/>umph over him, and all his Strategies. Lord thou knoweſt the retirement of my Breaſt, the ſecrets of my boſom, pity my wofull Conditi<g ref="char:EOLhyphen"/>on, and lift up the light of thy Countenance upon me, in order to the removal of this Clog
+<pb n="32" facs="tcp:57635:20"/> upon my Conſcience, that I rightly underſtand<g ref="char:EOLhyphen"/>ing what I have committed, may not deceive my ſelf, with the ſhow of Repentance, and fi<g ref="char:EOLhyphen"/>nally through thy Grace and Mercy, inherit the Kingdom which my Saviour purchaſed for me, to whom be aſcribed all Honour and Glory, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div type="prayer">
+               <pb n="33" facs="tcp:57635:20"/>
+               <head>Of Contrition.</head>
+               <p>O Holy Lord God, who art a Mercifull im<g ref="char:EOLhyphen"/>bracer of true Penitents, but yet a con<g ref="char:EOLhyphen"/>ſuming fire to obſtinate and perverſe ſinners, ſhall I approach thee, who have ſo many pro<g ref="char:EOLhyphen"/>voking ſins to inflame thy wrath, and ſo little ſincere Repentance to incline thy Mercy. O be thou pleaſed to ſoften and melt this hard and ob<g ref="char:EOLhyphen"/>durate heart of mine, that I may water my Couch with Tears, that I may heartily bewail the Iniquities of my life, and mourn for my Scarlet ſins, and bluſh for my hainous crime; ſtrike this Rock O Lord, that the Waters may flow out, even floods of Tears to waſh my pol<g ref="char:EOLhyphen"/>luted Conſcience, my drowſy Soul hath too long ſlept ſecurely in ſin, my life hitherto has been but a ſinful dream. Lord awake my Soul, though it be with Thunder, and let me rather feel thy terrors, than not feel my ſins, thou haſt ſent thy ſon to heal the broken hearted; but Lord what will that avail me, if my heart be whole: O break it, that it may be capable of his healing virtue, and grant I beſeech thee, that having once taſted
+<pb n="34" facs="tcp:57635:21"/> the bitterneſs of my ſin, I may fly from it, as from the face of a Serpent, and take my Sanctu<g ref="char:EOLhyphen"/>ary in the Arms of my Saviour, that I, by the ſhowers of thy Grace, may bring forth the fruits of a ſincere Repentance, in the ſpeedy amend<g ref="char:EOLhyphen"/>ment of my life, to the praiſe of thy Name, the Comfort of my Friends, and the Eternal wel<g ref="char:EOLhyphen"/>fare of my Immortal Soul, for Jeſus Chriſt his ſake.</p>
+               <p>
+                  <hi>Our Father, &amp;c.</hi>
+               </p>
+            </div>
+            <div type="prayer">
+               <pb n="35" facs="tcp:57635:21"/>
+               <head>For Patience.</head>
+               <p>O Lord God of our Salvation, which art the God of Patience and Mercy, and giveſt Comfort and conſolation to thoſe that are in miſery and diſtreſs, ſtay the unbridled Nature of my dear Wife, who is now over-whelmed with miſery, ſorrow and diſtreſs, give her Patience, and ſtrengthen her feeble Nature in all diſcon<g ref="char:EOLhyphen"/>tentedneſs of mind, doubts, fears, murmurings, rage and furious actions in this life, let no pro<g ref="char:EOLhyphen"/>phaneſs enter into her heart, but grant her a ſtayed mind, a grave, ſober, and quiet diſpoſi<g ref="char:EOLhyphen"/>tion. O! thou that ſo patiently, peaceably, mildly, meekly, truly and willingly, didſt ſuffer affliction, perſecution, and many hainous and heavy ſorrows for us. I beſeech thee, let thy Patience diſcharge and rule her Impatience, and let thine infirmities ſtrengthen her weak<g ref="char:EOLhyphen"/>neſs; informe her Ignorance, comfort her in ſadneſs and affliction, kindle her love, and diſ<g ref="char:EOLhyphen"/>charge, and abandon her fear, moderate her anger and paſſion. O Lord grant her true Pa<g ref="char:EOLhyphen"/>tience
+<pb n="36" facs="tcp:57635:22"/> to bear thy Holy Will in all things. O Lord her Heart bleeds within her, ſhe is brought very low, even to the Gates of death, though ſhe be reviled, reproached, be<g ref="char:EOLhyphen"/>ſpitted, ſcoffed, and abuſed, let her bear it patiently, and give her thy Grace, and pa<g ref="char:EOLhyphen"/>tience to take all in good part, what<g ref="char:EOLhyphen"/>ſoever ſhall befall her, and let her heart acknowledge it to be thy doings, and to come from thy Providence, and our baſe unruly minds, quiet her Soul in the many diſquiet<g ref="char:EOLhyphen"/>ing changes and chances in this world, and open her Eyes now in her diſcomfort, neceſſi- and need, that ſhe may ſee hope and comfort in thee, proſper her in all her endeavours, and Actions, and grant I beſeech thee that ſhe may obtain her hearty deſire. Make me O Lord a joyfull Mother, and ſpeak com<g ref="char:EOLhyphen"/>fortably to her Soul, and tell her, that the Lamb of God, that taketh away the ſins of the World, will have Mercy upon her. O Lord Jeſus, it is the Joy of her Heart, to hear that thou haſt taken and born all our in<g ref="char:EOLhyphen"/>firmity. I humbly mind thee for thy pro<g ref="char:EOLhyphen"/>miſes, for the performance of them all, that we may be partakers. Prevent her from all evil, that may befall her, and tearm all things to the beſt for her good in thee, and grant her Patience, and thy will be done,
+<pb n="37" facs="tcp:57635:22"/> for Jeſus Chriſt his ſake, who is the Son of thy Love, and our only Saviour Jeſus Chriſt, in whoſe name I further call upon thee, ſaying.</p>
+               <p>
+                  <hi>Our Father,</hi> &amp;c.</p>
+            </div>
+         </div>
+         <div type="account">
+            <pb n="38" facs="tcp:57635:23"/>
+            <p>
+               <hi>Beſides he had with his own hand noted the moſt comfortable Promiſes, and places fit for his Condition in the Bible, writing down the words at large, which ſince it may poſſibly be uſeful to ſome ſin-ſick Soul, we have here alſo inſerted them, in the words of his own Paper, as follows.</hi>
+            </p>
+            <p>
+               <hi>Pſal. 15.14.</hi> Deliver we from blood-guiltineſs O God, thou God of my Salvation, and my Tongue ſhall ſing aloud of thy righteouſneſs. —</p>
+            <p>Let Tears run down like a River day and night, give thy ſelf no reſt, let not the Apple of thine eye ceaſe. —</p>
+            <p>
+               <hi>Lam. 2:18, 19.</hi> Ariſe, cry out in the night, in the beginning of the Watches, pour out thine heart like water before the face of the Lord. —</p>
+            <p>
+               <hi>Hoſ. 13.9.</hi> Thou haſt deſtroyed thy ſelf, but in me is thine help.</p>
+            <p>
+               <hi>Job 14.13, 14.</hi> O that thou wouldſt hide me in the Grave, that thou wouldſt keep me ſecret, untill thy wrath be paſt. If a man die ſhall he live again? All the days of my appointed time will I wait, till my Change come,</p>
+            <p>
+               <hi>Pſal. 88.2, 3, 9, 10, 12.</hi> Let my Prayer com<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> before thee, incline thine ear unto my cry; — For my Soul is full of troubles, and my life draw<g ref="char:EOLhyphen"/>eth nigh unto the Grave. — Mine Eye mournet<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by reaſon of affliction; Lord I have called dail<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> upon thee, I have stretched out mine hands unt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="39" facs="tcp:57635:23"/> thee. — Wilt thou ſhew wonders to the dead? ſhall the Dead ariſe and praiſe thee, ſhall thy won<g ref="char:EOLhyphen"/>ders be known in the dark, and thy Righteouſneſs in the Land of forgetfulneſs. —</p>
+            <p>
+               <hi>Pſal. 6.1, 4, 5.</hi> O Lord rebuke me not in thine anger, neither chasten me in thy hot diſpleaſure. — Return O Lord, deliver my Soul, O ſave me for thy Mercy ſake; — For in death there is no remembrance of thee, in the Grave there is no giving thanks unto thee. —</p>
+            <p>
+               <hi>Pſal. 15.5.</hi> Behold I was born in ſin, and in Iniquity did my Mother conceive me.</p>
+            <p>
+               <hi>Pſal. 25.11.</hi> Againſt thee O Lord have I ſin<g ref="char:EOLhyphen"/>ned, againſt thee, even thee O Lord, have I ſin<g ref="char:EOLhyphen"/>ned and done wickedly, and Lord pardon mine Ini<g ref="char:EOLhyphen"/>quity, for it is exceeding great.</p>
+            <p>
+               <hi>John 6.37.</hi> And he that cometh unto me, I will in no wiſe caſt out.</p>
+            <p>
+               <hi>2 Sam. 12.9, 13. David</hi> ſaid to <hi>Nathan,</hi> I have ſinned againſt the Lord; and <hi>Nathan</hi> ſaid to <hi>David,</hi> the Lord alſo hath put away thy ſin.</p>
+            <p>
+               <hi>Iſa. 45.18, 19.</hi> I ſaid not to the ſeed of <hi>Jacob,</hi> ſeek ye me in vain.</p>
+            <p>
+               <hi>Iſa. 55.7.</hi> Let the wicked forſake his way, and the unrighteous man his thoughts, and let him re<g ref="char:EOLhyphen"/>turn unto the Lord, and he will abundantly pardon.</p>
+            <p>
+               <hi>Ezek. 18.23, 30, 32.</hi> Have I any pleaſure at all that the wicked ſhould die, ſaith the Lord, and not that he ſhould turn from his ways and live.— Repent and turn your ſelves from all your tranſ<g ref="char:EOLhyphen"/>greſsions,
+<pb n="40" facs="tcp:57635:24"/> ſo Iniquity ſhall not be your ruine; for I have no pleaſure in him that dyeth, wherefore turn your ſelves and live.</p>
+            <p>
+               <hi>Mica 7.18.</hi> Who is a God like unto thee, that pardoneſt Iniquity, and paſſeth by tranſgreſsion, that retaineſt not thy anger for ever, and delighteſt in Mercy.</p>
+            <p>
+               <hi>Mat. 18.11.</hi> the Son of man is come to ſave that which was loſt.</p>
+            <p>
+               <hi>1 Tim. 1.15.</hi> This is a faithfull ſaying, and worthy of all acceptation, that Chriſt Jeſus came into the world to ſave ſinners, whereof I am chief.</p>
+            <p>
+               <hi>Iſa. 55.7.</hi> Let the wicked forſake his ways, and the unrighteous his Imaginations, and return to the Lord, and he will have Mercy upon him, and to our God, for he is ready to forgive.</p>
+            <p>
+               <hi>Iſa. 57.10.</hi> I have ſeen his ways, and will hear him, I will lead him, and reſtore comfort unto him, and to thoſe that lament.</p>
+            <p>
+               <hi>Pſal. 103.13.</hi> As a Father hath compaſsion on his Children, ſo hath the Lord compaſsion on them that fear him.</p>
+            <p>
+               <hi>Pſal. 144.3.</hi> Lord what is man that thou takeſt Knowledge of him, or the Son of man that thou makeſt account of him.</p>
+            <p>
+               <hi>Job 16.21, 22.</hi> O that one might plead for a man with God, as a man pleaded for his Neigh<g ref="char:EOLhyphen"/>bour. — When a few days are come, then I ſhall go the way whence I ſhall not return.</p>
+            <p>
+               <hi>In this manner this penitent Malefactor paſ<g ref="char:EOLhyphen"/>ſed
+<pb n="41" facs="tcp:57635:24"/> the time in a very ſorrowfull and Religious frame of Spirit, for about half a year in Priſon, untill the laſt aſſizes for</hi> Monmouth, <hi>the ſeventh of</hi> March, <hi>laſt paſt; at which time being brought to his Tryal, out of conſideration (as 'tis be<g ref="char:EOLhyphen"/>lieved) to ſave his Eſtate for his VVife and Child, whereof ſhe was there ready to be delivered, he would not plead to the Indictment, but ſtood mute, and thereupon had Judgment to be preſſed to death, a Sentence that carryes with it ſo much of terrour, that we think it not improper to ſet it down, with the Reaſon thereof, as one pub<g ref="char:EOLhyphen"/>liſhed by that grand Piller of your Law, the learned Lord</hi> Cook, <hi>in the ſecond Book of his Inſtitutes, in his Comment on</hi> Prim. Weſtm. Cvp. <hi>12.</hi>
+            </p>
+         </div>
+         <div type="judicial_sentence">
+            <pb n="42" facs="tcp:57635:25"/>
+            <head>The Judgement or Sentence in caſe of ſtanding mute, called, <hi>Pain, Fort, &amp; Dure.</hi>
+            </head>
+            <p>THat the Priſoner ſhall be remanded to the Priſon, and laid there in ſome low and dark houſe, where he ſhall lie naked on the bare Earth, without any Litter, Ruſh or other Cloathing, and without any Garment about him, but ſomething to cover his Privities, and that he ſhall lye upon his back, his head un<g ref="char:EOLhyphen"/>covered, and his feet, and one Arm ſhall be drawn to one quarter of the houſe, and the o<g ref="char:EOLhyphen"/>ther Arm to another quarter, and in the ſame manner ſhall be done with his Legs; and there ſhall be laid upon his Body Iron and Stone, as much as he can bear, and more, and the next day following, he ſhall have three Morſels of Barley without any Drink, and the ſecond day he ſhall drink thrice of the water that is next to the houſe of the Priſon (except running water) without any Bread, and this ſhall be his diet un<g ref="char:EOLhyphen"/>till he be dead.</p>
+            <p>Thus we ſee they are to die three manner of ways, <hi>(viz.) Onere, Fame, &amp; Frigore,</hi> by weight,
+<pb n="43" facs="tcp:57635:25"/> famine, and cold, and therefore (if executed ac<g ref="char:EOLhyphen"/>cording to the ſeverity of the Law) 'tis a puniſh<g ref="char:EOLhyphen"/>ment of all others the moſt grievous and fearful; the reaſon of this terrible Judgment is there rendred, becauſe he refuſed to ſtand to the com<g ref="char:EOLhyphen"/>mon Law of the Land, that is, Lawful and due Tryal according to Law, and thereupon his pu<g ref="char:EOLhyphen"/>niſhment for this contumacy, is more ſevere, laſt<g ref="char:EOLhyphen"/>ing and grievous, then it ſhould have been for the crime it ſelf, if he had been Convicted of it, which he cannot be, without Anſwer.</p>
+         </div>
+         <div type="account">
+            <pb n="44" facs="tcp:57635:26"/>
+            <p>THis Action of Mr. <hi>Jones,</hi> ſtand<g ref="char:EOLhyphen"/>ing mute, adminiſtred occaſi<g ref="char:EOLhyphen"/>on to ſome to diſpute its lawfulneſs, and theteupon a very Judicious Ca<g ref="char:EOLhyphen"/>ſuiſt drew up the enſuing Caſe of Conſcience.</p>
+            <div type="case">
+               <pb n="45" facs="tcp:57635:26"/>
+               <head>CASE OF CONSCIENCE.</head>
+               <head type="sub">Whether a guilty Malefactor ought to Anſwer to the lawful Demands of his Judge. <hi>Affirmatur,</hi>
+               </head>
+               <p>
+                  <hi>Becauſe, 1.</hi> He cannot deny a Truth whereof he is himſelf Convicted, without Lying; nor can he deny, or any way detract from his Duty of Anſwering (be<g ref="char:EOLhyphen"/>ing demanded by a ſuperiour and lawful Power,) without being likewiſe guilty of Contumacy and ſad Inobedience.</p>
+               <p n="2">2. A Malefactor, who is condemned already <hi>in foro Conſcientiae,</hi> cannot, without remorſe deny, nor in<g ref="char:EOLhyphen"/>deed wave or conceal his Confeſſion (when he is <hi>Ju<g ref="char:EOLhyphen"/>ridice</hi> demanded) without giving offence to the glory of God, as it was in the Caſe of <hi>Achan, Joſh. 7.19.</hi>
+               </p>
+               <p n="3">3 The publick Good which is intended by the lawful de<g ref="char:EOLhyphen"/>mands of the Judge, ought not to be fruſtrated (Give me leave to ſpeak conſcienciouſly) by the private e<g ref="char:EOLhyphen"/>vaſions of the Criminal.</p>
+               <p n="4">4. The Perſon guilty, not pleading, may be ſuppoſed to die for his Crime of Contumacy, not the Fact which requires ſatisfaction in this life.</p>
+               <p n="5">5. All humane Policy, when repugnant to the manife<g ref="char:EOLhyphen"/>ſtation of Juſtice, legal Procedure, and the Convi<g ref="char:EOLhyphen"/>ctions of a tender, though doubtful Conſcience, is al<g ref="char:EOLhyphen"/>together unallowable.</p>
+            </div>
+         </div>
+         <div type="account">
+            <p>But to proceed in our Narrative, The ſame way that was appointed for putting the before-reci<g ref="char:EOLhyphen"/>ted terrible Sentence in Execution <hi>March</hi> 11 laſt, he writ to his Wife as followeth.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb facs="tcp:57635:27"/>
+                  <head>
+                     <hi>Henry Jones</hi> his laſt Letter to his wife.</head>
+                  <opener>
+                     <salute>Deareſt Deare</salute>
+                  </opener>
+                  <p>AFter my hearty prayers to the God of Hea<g ref="char:EOLhyphen"/>ven and Earth for thee and my poor child or Childrens welfare when born; I do be<g ref="char:EOLhyphen"/>ſeech the for <hi>Jeſus</hi> ſake to feare God, and pray Continually to him, to endue thee and thy poor child or more with grace, wiſedom and under<g ref="char:EOLhyphen"/>ſtanding, and to give thee a contented mind, in what eſtate Soever he is pleaſed to ſet thee; That thou mayſt take all things with a true, religious and ſatisfied eye, praiſing him in every thing, and doing no wrong to any man, but what good thou canſt to all, never covering any mans eſtate or plenty of Riches, but ſatisfied with any ſmall competent main<g ref="char:EOLhyphen"/>tenance, wherewith to ſupply thee and my poor Child or Childrens bodies in this life, and to make you more ſenſible of a better which is to come, I ſhould have bin very glad to have heard thou wert ſafely delivered of thy burden before <hi>I</hi> die. But ſince it pleaſeth Almighty God, that it ſhall be o<g ref="char:EOLhyphen"/>therwiſe, I deſire thee to be contented, and to bear all the Lords diſpenſations very patiently, who I hope will turn all things to the beſt for thee in ſhort time: As for my ſuffering an ignominious and terrible death, I conjure thee not immoderately to afflict thy ſelf about it; Oh! conſider how flight
+<pb n="47" facs="tcp:57635:27"/> and trivial the momentary pains I can here go through are, in compariſon of thoſe inconceive<g ref="char:EOLhyphen"/>able endleſs torments, which I muſt confeſs my ſelf juſtly to have deſerved: bleſs the Lord with me, that he hath dealt ſo gently as to awaken me to a ſenſe of my horrid ſins; That I now ſee the ſin<g ref="char:EOLhyphen"/>fulneſs of ſin, of all ſin, and the need of a Ieſus; Through whoſe pity, grace and mercy I ſtedfaſtly hope (though my body ſuffer for a moment) yet my poor ſoul ſhall be pardoned, freed and abſolved from eternal damnation; And that he will make thee and all the Worid take example by me, not to offend ſo good and gracious a God: And as for my Siſter <hi>Mary,</hi> who is to ſuffer with me or preſent<g ref="char:EOLhyphen"/>ly after, <hi>I</hi> do hereby aſſure thee and all the World, as <hi>I</hi> have a ſoul and hope for ſalvation, ſhe is as clear, free, innocent and guiltleſs, from having any hand in contriving, plotting, or knowing any thing of my Mothers death, before or after: as any of her Proſecutors, or of the Officers, who took me upon ſuſpicion, until they themſelves did ſuſ<g ref="char:EOLhyphen"/>pect me: And therefore I think it is ſome juſt and deſerved affliction, which God is pleaſed to lay upon me for the ſins of our Parents, not but that we have deſerv'd this and ten thouſand times more for the ſins we have commitred our ſelves! However <hi>I</hi> deſire thee hence to con<g ref="char:EOLhyphen"/>ſider, how angry the Lord is with us ſome<g ref="char:EOLhyphen"/>times, when he is pleaſed to inflict ſuch puniſhment upon her for leud living, and committing ſuch ſins:
+<pb n="48" facs="tcp:57635:28"/> as are termed (with all people) ſmall, and little made of, amongſt men in our times; Conſider, I ſay, my dear Heart, my dear Life, my dear Self, what odious and hateful a thing the leaſt ſin is in the ſight of Almighty God: ſince ſhe, poor wretch, is now to be burnt to death for lewd living, wan<g ref="char:EOLhyphen"/>tonneſs, lying, living merrily and idlely; Oh, my dear Wife, go ſorrowing to thy Grave for the days of thy vanity, and that idle merry life thou haſt formerly lived in: Do not buy ſuch trifles, and indeed a nothing but ſorrow, at ſo dear a Price, as the love of ſo holy a God, and a happy Eternity: O my dear heart, it cannot chooſe but make thee tremble (to read it, as well as me to write it) what ſins have I committed in killing my Mother, and what Puniſhment have I deſerved for ſuch great ſins: when my poor dear Siſter is puniſh'd for ſo ſmall offences, as people term them, (but great with God.) How ought I to pray the Lord to par<g ref="char:EOLhyphen"/>don me ſo great faults, and that for ſo ſmall pains and little puniſhment: Oh praiſe the Lord all the days of thy life for his goodneſs and mercy towards us, both in this life and that which is to come: Keep the day that I am put to death as a ſolemn Faſt from diet, but eſpecially from ſin, with Pray<g ref="char:EOLhyphen"/>ers and Thankſgiving to the end of this thy mortal life: Retire and confine thy ſelf to a ſolitary and ſolid way of living: have as little to do with any in worldly affairs as thou canſt: let thy houſe be in ſome retired place, free from frequent Reſorters, unleſs it be they who fear God, and live ſoberly and
+<pb n="49" facs="tcp:57635:28"/> godly in this preſent wicked world: let ſuch be thy Comforters and Companions, <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>live like the <hi>Oſtrich</hi> and <hi>Pellican:</hi> Comfort thy ſelf in nothing but in the Lord God, bring up mine and thy poor childe or children always in the fear of the Lord: And whatever thou doeſt, be continually in pray<g ref="char:EOLhyphen"/>ers for them, and thy poor ſelf, My dear <hi>Mall:</hi> And when thou art moſt under affliction and diſtreſs in this life, be then moſt frequent &amp; fervent in prayers before God, confeſſing all thy ſins (even thoſe thou mayſt count ſmall) as well as great and preſumptu<g ref="char:EOLhyphen"/>ous ſins, deſiring pardon and forgiveneſs, and grace and abſtinence for the future: be humble, m ek, and lowly at all times, but eſpecially when thou art before Almighty God: I would have written more large unto thee, but <hi>I</hi> refer my ſelf to the bearer, who will, I hope, ſatisfie thee fully, and how and when I was put to death: I can ſay no more, but my Deareſt Dear, farewel: Farewel on Earth; Thy dying Husband hoping to meet in Heaven,</p>
+                  <closer>
+                     <dateline>
+                        <hi>Monmouth</hi>
+                        <date>
+                           <hi>March</hi> 11. 1671.</date>
+                     </dateline>
+                     <signed>Henry Jones.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>After this, being brought into the place where Execution was to be done, which was in a Cellar belonging to <hi>George Sadler</hi> the Goaler. After ſe<g ref="char:EOLhyphen"/>veral pious and devout Ejaculations, he ſpake to the Spectators to this effect,</p>
+            <p>
+               <q rend="margQuotes">'That he came very willing to ſuffer death, ſince
+<pb n="50" facs="tcp:57635:29"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="51" facs="tcp:57635:29"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="48" facs="tcp:57635:30"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="49" facs="tcp:57635:30"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="50" facs="tcp:57635:31"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="51" facs="tcp:57635:31"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="48" facs="tcp:57635:32"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="49" facs="tcp:57635:32"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="50" facs="tcp:57635:33"/> the crimes he had committed were ſo odious both in the ſight of God and man: That he acknow<g ref="char:EOLhyphen"/>ledged he no longer deſerved to tread on the face of the earth, or to look up to Heaven; That he had been a very wicked Liver from his youth up, and that the burthen of his ſins would be much more grievous to his ſoul, then the weight that was to preſs his body to death, had he not a firm belief, and aſſured hope, That his bleſſed Saviour would preſerve him from ſinking under them, whoſe Promiſe it is, <hi>Come to me all ye that are heavy laden, and I will give reſt to your ſouls:</hi> He expreſt himſelf deeply affected with the ſenſe of his guilt, in drawing in his boy to be a ſha<g ref="char:EOLhyphen"/>rer in the horrid Act; He expreſt himſelf now in Charity, and reconciled to all the world, but his wicked ſelf: He confeſt it was covetouſneſs and extravigancy, or rather covetouſneſs to maintain extravigancy, that firſt put him upon this wicked Act of murthring his dear and tender Mother, he wiſh'd that all the World might take warning by him, not to get a habit, and live in a cuſtom of ſin<g ref="char:EOLhyphen"/>ning, though only in things which we count little things, and venial eſcapes, leſt thereby they provoke the Juſtice of God to give them to commit ſome great and monſtrous wickedneſs as he had done, and thereby brought himſelf to this untimely and infa<g ref="char:EOLhyphen"/>mous death; Finally, he deſired all that were pre<g ref="char:EOLhyphen"/>ſent to be earneſt with God in his behalf for mercy and acceptance in Chriſt Ieſus, Taat he might be patient in the pangs of his ſufferings, and receive
+<pb n="51" facs="tcp:57635:33"/> everlaſting tonſolation, whereupon a godly Divine there preſent, made this enſuing Prayer.</q>
+            </p>
+            <div type="prayer">
+               <head>The Prayer ſaid at <hi>Henry Jones</hi> his Execution.</head>
+               <p>O Almightie God, Lord if Heaven and Earth, Judge of An<g ref="char:EOLhyphen"/>gels and men, give leave to a vile, wretched and dejected ſoul to come into thy Preſence, who deſerves nothing but plagues and tormentts, fire and brimſtone: Permit a trembling Malefactor to look towards thy Mercie-Seat, and for the Holy Jeſus ſake attend unto his Cry, and hear the voice of his tears. O eternal Goodneſs, if thou for ſakeſt him, the vaſt weight of his ſins will ſink him into deſperation. His ſtate is moſt ſad and deplorable, and there is none to deliver him: let thy tender mercies ſpeedity prevent him, for he is brought very low: He is aſtoniſhed at the ſight of his iniquities, which are great and numberleſs. O L rd ſupport him with thy bleſſed Arms, or he will fall into a S<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a of miſerie, and never riſe again. Fears and terrors ſurround him, and the evil ſpirits watch for his ruine: may he not, a gr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ous ſinner, beg one drop of comfort, wh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is readie to periſh? may he not pray to th<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in the time of his diſtreſs and calamity, when thy fierce wa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es are coming over his fainting troubled ſoul? He is afflicted and readie to die— Oh, wilt thou <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e angr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e with him fo<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ver? wilt thou draw out thine anger unto all generati<g ref="char:EOLhyphen"/>ons? Moſt gracious God, give him leave to lie at thy ſacred feet and bewail himſelf a little, before he deſc<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd into his graue wh re there is no repenting; give him leave to confeſs his iniquity and beg thy favour, that he may not go down into the Regions <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f darkneſs, and dwell with devils, for thou willeſt no<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ath of ſinners, thou takeſt no pleaſure in their torments. O <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> W<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll-ſpring of life and ſaluation, who haſt promiſed Pa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>don to the Penitent, let the fighing of the Priſoner come before thee, whoſe heart is melted in the midſt of his bowels. He confeſſes, O Lord, his pride and prophaneneſs, and contempt of thy G<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſp<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l, that he has been greedie of the world, and diſtruſted thy Pr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>v<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>dence, that he has made haſte to be rich, and ruin<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d himſelf, that it was his baſe and ſordid covetouſneſs, which drew him into diſobedience, and blood-guiltineſse, which <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> him off in th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> midſt of his days.</p>
+               <gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="52" facs="tcp:57635:34"/>
+               <p>O that he ſhould be ſuch a ſon of <hi>Belial,</hi> as to die his hands in the blood of his Parent, that bore him upon her Knees, and laid him in her Boſome! thdt he ſhould be ſuch a Wretch, as to ſide with the devil, and the unrighteous Mammon, in taking away her life who brought him into the World! O the foulneſs of this deed of darkneſs, which fills him with grief, horrour and aſtoniſhment! But is there no Balm in <hi>Gilead?</hi> no Phy<g ref="char:EOLhyphen"/>ſician there to heal a wounded ſpirit, to ſupport a ſinking ſinner? O Father of mercies, though his life is forfeited by this Helliſh Act, let not his H<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pes of Heaven be loſt, and his precious ſoul. Thou, O God of Truth, ſayſt, If <hi>we confeſs our ſins, thou art faithful and juſt to forgive them.</hi> And he acknowledges, O Lord, in the bitterneſs of his ſoul, that he is the vileſt, blou<g ref="char:EOLhyphen"/>dieſt Villain that ever breath'd in thy Air; that no Turk or Moor has been guilty of more horrid Wickedneſs: but thou ſeeſt his Proſtration, thou haſt heard his g<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ans: O put his tears into thy bottle, are they not in thy Book? O Searcher of all hearts, thou knoweſt, 'tis not life but mercy which he im<g ref="char:EOLhyphen"/>plores: Do what thou pleaſeſt with his vile body: but let his ſoul, we beſeech thee, lie in the Arms of Jeſus. O waſh him clean in that purple ſtream which flowed from his ſide, and let all the ſins of this po<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r M l<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>factor be drowned in a flood of ſorrow. O that h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Head was waters, and his Eyes a Foun<g ref="char:EOLhyphen"/>tain of tears!— O God of patience and conſolation, look not upon the blackneſs of his crime, but upon the wounds of thy Son, who is mighty to ſave: O that he may have a ſhare in his death and interceſſion. For Ieſus ſake, let his Prayer come before thee, for his ſoul is full of troubles, and his life draw<g ref="char:EOLhyphen"/>eth nigh unto the Grave. Look down from Heaven, and be<g ref="char:EOLhyphen"/>hold from the Habitation of thy Holineſs and of thy Glory: O Holy Ieſus, offer up our ſuit to thy Father, and plead for a ſoul who begs Compunction of ſpirit, and thy loving-kindneſs, which is better then life, that he may declare he is a Penitent Murderer, as <hi>David, Manaſſes,</hi> and many others, now in thy Kingdom. O moſt gracious Lord, who art unwilling that <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y ſhould periſh, ſpeak Peace to this troubled, guil y ſoul, and
+<pb n="53" facs="tcp:57635:34"/> heal the gaping wounds which he has in his heart: knock off his chains of fleſh, and take him unto thee, though he be the leaſt in thy Kingdom: Ever-bleſſed Ieſus, we humbly beſeech thee alſo, ſave the ſoul of his poor ignorant ſervant, whom he hath drawn to the Gates of death, by engaging him to joine with him in ſpilling the blood of the innocent: for the h rridneſs of which Fact they cannot weep enough, if their tears could make a River, and riſe above its banks, and drown the Field where they ſinned. O thou Prince of Peace, look with an eye of mercie upon theſe Wretches, who are bound in affliction and iron: may thy wounds ſatisfie for thoſe which they have given, and thy blood for that which they have ſpilt, and ſave them from the eternal Priſon: Pity and pardon them, and deliver them from the ſpirits of darkneſs, and everlaſting damnation.</p>
+               <p>O our deareſt Saviour, though this poor, vile and dejected Sinner, ſuffers an ignominious death, and becomes an object of ſcorn and deriſion to many, a Spectacle to men and Angels; do thou bear, help, and ſave his immortal ſoul, for thy ever<g ref="char:EOLhyphen"/>laſting mercies ſake, moſt merciful Saviour Ieſus, in whoſe Name and words we further pray, <hi>Our Father which art in Heaven, &amp;c.</hi>
+               </p>
+               <pb n="54" facs="tcp:57635:35"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="55" facs="tcp:57635:35"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+            </div>
+         </div>
+         <div type="account">
+            <pb n="54" facs="tcp:57635:36"/>
+            <p>This Prayer ended, the Priſoner kneeled down, and prayed near a quarter of an houre ſoftly by him<g ref="char:EOLhyphen"/>ſelf, and then was put into the Preſs, which whe<g ref="char:EOLhyphen"/>ther it were not made convenienr for that purpoſe, or whether for the deteſtableneſs of his Crime, it was intended he ſhould ſuffer the rigour of the Law, I know not, but certain it is, That he lay therein al<g ref="char:EOLhyphen"/>moſt two days and nights before he was dead; and yet endured it with that courage and patience, as be<g ref="char:EOLhyphen"/>came one that was ſenſible his ſins deſerved infinite<g ref="char:EOLhyphen"/>ly more grievous torments, or rather one that had the aſſurance of faith, that his ſins were waſhed a<g ref="char:EOLhyphen"/>way in the blood of Ieſus; and that he was going to take poſſeſſion of Ioys unſpeakable and endleſs, ra<g ref="char:EOLhyphen"/>viſh'd with the apprehenſion thereof, he could not only go through, but welcom the greateſt pains that in this World could be inflicted.</p>
+            <p>
+               <hi>George Bridges</hi> his unhappy ſervant ſtood his trial, was found guilty of the Murther, and condemned to be hang'd, which was accordingly ex<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cuted on <hi>Saturday, March</hi> 16. laſt paſt. He ſeemed very ſor<g ref="char:EOLhyphen"/>rowful and penitent, and confeſſed he did cut his Myſtriſs's Throat after ſhe was ſhot: The Prayer uſed at his death was as follows.</p>
+            <div type="prayer">
+               <pb n="55" facs="tcp:57635:36"/>
+               <head>A Prayer at the Execution of <hi>George Bridges.</hi>
+               </head>
+               <p>O Eternal God, and Father of mercies, in much pity and compaſſion behold this weak and rrembling Malefactor, who in all Humility begs the remiſſion of his ſins and follies: who with ſhame and ſorrow caſts himſelf down at thy feet, and confeſſes his manifold and inſufferable wickedneſſes, his ig<g ref="char:EOLhyphen"/>norance of thy Law, and contempt of holy duties, his falſ<g ref="char:EOLhyphen"/>hoods and lies, diſſimulations and hypocriſies, cruelties and blood-guiltineſs. He confeſſes, O God, that he has deſer<g ref="char:EOLhyphen"/>ved the heavieſt of thy wrath, to beſeparated from the com<g ref="char:EOLhyphen"/>forts of thy Preſence, and the Glories of thy Kingdom.</p>
+               <p>But bleſſed be thy Name, that thou inviteſt ſinners to thy <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>elf, and offereſt them Pardon upon repentance; that thou haſt ſent thy only Son into the World to die for ſuch, and <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſt promiſed ſalvation upon their true Confeſſion and deep Humiliat on. O holy God, who art full of long-ſuffering <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd patience, have mercy upon this fearful miſerable ſinner, <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd pardon him his ignorance and anger, and all the errors of his life, and hear his earneſt groans now in the time of his affliction and trouble, O what ſhall we ſay to thee thou Pre<g ref="char:EOLhyphen"/>ſerver of men? thou takeſt no pleaſure in ſeeing the blood of thy children: thou wouldſt not have any to die in his tranſgreſſions. O God of mercies pity and pardon this timorous dying perſon, and clenſe his guilty ſoul in the blood of the immaculate Lamb, which ſpeaketh better things then that of <hi>Ahel.</hi> Return, O Lord, deliver his ſoul: O ſave him for thy mercies ſake. For in death there is no re<g ref="char:EOLhyphen"/>membrance of thee: in the Grave who ſhall give thee thanks.</p>
+               <pb n="56" facs="tcp:57635:37"/>
+               <p>Bleſſed God, thou haſt ſaid, thou wilt hear the prayer of two or three; Will thou not attend unto the cries, an<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> tears of a Multitude, who are at thy Throne of grace in be<g ref="char:EOLunhyphen"/>half of this poor wretch who by the Seductions of the devi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and his own hearts luſts was drawn to commit a black, an<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> horrid wickedneſs, to plot and contrive the de<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th of hi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Miſtriſs, and to lie in wait for her fall. For thy Name-ſak<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> O Lord, pardon his iniquity for it is great; The trouble of his heart are enlarged: O bring thou him out of his d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſtreſſes.</p>
+               <p>O moſt Gracious Father, let not this ſad, and timerou<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sinner ſink under the burden of his tranſgreſſions and cal<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>mities: To thee alone he makes his complaint, and Prayer And he trembles at thy judgements: let not the evil Spiri<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and his feares prevaile in the time of his trouble, and ſor<g ref="char:EOLunhyphen"/>row, and diſſolution.</p>
+               <p>O God, we beſeech thee, give thy afflicted ſervant a pe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>fect and ſound repentance, and aſſurance of thy favour tell him that thou haſt ſeal'd his Pardon to him with t<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> blood of Jeſus, that thou haſt accepted his Confeſſion, a<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> haſt heard his g<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oans, and that he ſhall quickly be tak<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> from a miſerable and ſinful world to a Celeſtial Manſion. <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> deareſt Lord, take from thy poor and ſinful ſervant all ino<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>dinate fear of death, and give him earneſt deſires after C<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>leſtial pleaſures: and when his ſoul ſhall take a farewel<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> this world, let thy holy Angels carry it into the Regions eternal joy, peace, and felicities, for Chriſt Jeſus ſake, o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> deareſt Lord. In whoſe Name and words we further pra<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Our Father, &amp;c.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="account">
+            <pb n="57" facs="tcp:57635:37"/>
+            <p>As for <hi>Mary Jones,</hi> though ſhe from firſt to laſt proteſted her innocency, yet it being proved, Not only that ſhe ſtay'd up for her brother that fatal Night the Murther was committed, but that very Night waſhed his bloody Clothes, beat the Chil<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ren for enquiring after their Mother, and ſince <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ndeavoring to flie for it, all which was teſtified, with ſeveral other circumſtances, by two credible Witneſſes, ſhe alſo was hereupon found guilty as conſenting to the Fact; and condemned to be burnt.</p>
+            <p>Which Sentence was executed the ſame day that the Boy ſuffered, <hi>viz. Mar.</hi> 16. ſhe being drawn a<g ref="char:EOLhyphen"/>long with him on a Sledd, and burned at a Stake nigh the Gallows: She to the laſt inſiſted on her Innocence, and gave Certificates thereof to ſeveral Perſons under her own hand, with moſt ſolemn Pro<g ref="char:EOLhyphen"/>teſtations; and begged of the Lord on the day ſhe was to die, That he would pleaſe to ſhew ſome ſign or token to clear her to the world, which ſome will have to be Anſwered by the ſtubborn Horſes refuſal to go on with the Sledd when ſhe came againſt the Church, going to the place of ſuf<g ref="char:EOLhyphen"/>fering; the falling down of part of the Church-wall then, a ſtrange Meteor and Storm, with I know not how many other Prodigies: but wiſer men judge all theſe to be but raiſed ſtories, or at beſt, forced obſervations of ſome melancholy and cre<g ref="char:EOLhyphen"/>dulous Heads: 'Tis certain, her ſex, youth, and vehement denial of being privy to the Fact, were very powerful Advocates to plead for pity in the spectators breaſts, whoſe tears at her death ſeem'd
+<pb n="58" facs="tcp:57635:38"/> almoſt enough to quench the flames ſhe was expo<g ref="char:EOLunhyphen"/>ſed to, ſhe ſaid not much at the ſtake, but what ten<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ed to declare her innocency in the particular fa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> charged, though having bin a grand ſinner, ſhe a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>knowledged ſhe had otherwiſe duely deſerved t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> worſt ſhe could ſuffer. And concluding her diſcour<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> with a Proteſtation, that ſhe freely and heartily di<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> forgive all the world.</p>
+            <p>The Prayers following were put up for her as ſhe ſto<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> at the Place of Execution, a numerous throng acco<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>panying each word with ſighs and tears.</p>
+            <div type="prayer">
+               <head>A Prayer at the Execution of <hi>Mary Jones.</hi>
+               </head>
+               <p>
+                  <hi>O Eternal and moſt merciful God, who haſt made the way <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> troubles and afflictions, the way to <hi>Jeruſalem</hi> and everlaſti<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> pleaſures: Look in abundant mercy upon a ſorrowful ſin <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſoul, upon a wretched and vile ſinner, who hath none to he<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> and deliver her: O pardon and forgive her all her ſecret ſin luſts and paſſions, her averſeneſs to religion and vertue, and h<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> want of love to Prayer and holy Offices, to the Word of G<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> and pious Chriſtians: her eaſie yieldings to the aſſaults of S<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>tan, and violent reſiſtings of the motions of thy Spirit: H<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> ſlaviſh fears and diſtruſt of thy Providence, her greedineſs of t<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> world, and neglect of the things above, the omiſſions and lu<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> warmneſs of her Prayers, and whatſoever has provok'd the<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> lay this great puniſhment upon her; O God we beſeech thee, <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e be guiltie of the charged crime, of taking away the lif<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> her Mother, let a River of tears run down her cheeks, and w<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> her clean in the blood of the Holy Jeſus; If ſhe was not c<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ſcious to that fearful and horrid deed of darkneſs, clear her <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>nocencie to this great multitude by her readineſs and che<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>fulneſs to die, to go through this fierie trial, or by what to <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eems beſt to thine infinite W<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſdom, and let thine holy Ang<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <pb n="59" facs="tcp:57635:38"/> miniſter to her in her ſorrow, and wipe the tears from her eyes, and ſweat from her bodie, and carry her ſoul into thine ever<g ref="char:EOLhyphen"/>laſt<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ng Kingdom, where, if ſhe arrives, ſhe ſhall never ſin, nor ſigh, nor be accuſed or tempted, judgd or cond<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mn'd, where ſhe wi<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l have ſ<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>und and ſolid j y, perfect Peace and felicity, and <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Anthems for ever with Angels and all the Martyrs of <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſus.</hi>
+               </p>
+               <p>O Almighty and moſt gracious Saviour, who didſt ſuffer with meekneſs &amp; p<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tience thoſe ſevere ſtripes of thy Fathers wrath which we did deſerve, but thou didſt feel, and haſt e<g ref="char:EOLhyphen"/>ſtab iſh'd with mankind a Covenant of Faith and Patience, a Law of S<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fferings, making the way of the Croſs to be the way of Heaven: Give t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thy handmaid thy grace, that ac<g ref="char:EOLhyphen"/>cording <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o thy excellent example, and holy Commandment, ſhe may bear the burden of the Lord, with an even and wil<g ref="char:EOLhyphen"/>ling, an obedient and loving ſpirit. O let her never charge thee fooliſhly, nor murmure ſecretly—but with faith and <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>pe ſubmit her body and ſoul to thy merciful and juſt diſ<g ref="char:EOLhyphen"/>p<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nſation; that ſhe may not diſcompoſe the duties of her re<g ref="char:EOLhyphen"/>pentance by a new ſin, nor provoke thee to anger by her im<g ref="char:EOLhyphen"/>patience—nor neglect the doing of any thing that can be in her power, or in her duty to her body or her ſoul. O God b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> merciful to thy handmaid, and preſs her not with an unequal load, but remember that ſhe is duſt and vani<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, and dies in thy diſpleaſure. Give her [we pray thee] a quiet mind and peaceful conſcience; and deliver her not into the will of her ſpiritual enemies, but let her be juſtify'd by thy mercy, ſanctify'd by thy ſpirit, ſaved by thy infinite and e<g ref="char:EOLhyphen"/>ternal goodneſs, through Jeſus Chriſt our Lord [and Saviour] In whoſe Name and words we further pray, <hi>Our Father, &amp;c.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="account">
+            <p>Which words being ended, The Exe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>utioner (with a a fla<g ref="char:EOLhyphen"/>ming Torch) ſets fire to the ſtraw and Faggots, and in leſs then an houre after, her body is there conſumed to Aſhes.</p>
+            <pb n="62" facs="tcp:57635:39"/>
+            <p>Thus have we traced our bloody Murtherers into the other world, where we Charitably leave them all to the mercies of a moſt Righteous God, who we may obſerve in this Example doth often puniſh one ſin with another: A wild diſſolute courſe of Living Engages this unhapy young Gentleman in Covetouſneſs and unjuſt greedy deſires after his Mothers rightfull Eſtate, to ſupply his Extra<g ref="char:EOLhyphen"/>vagancies; Theſe unlawfull deſires Tempt him to Trample on and violate all Laws of Nature and Grace on Earth and Heaven; And with barbarous hands to Murther her whom in duty and Affection he was bound to obey, honour, and with the ha<g ref="char:EOLhyphen"/>zard of his life preſerve; Thus leſſercrimes draw on and prepare us for greater, for when we firſt for<g ref="char:EOLhyphen"/>ſake God, no wonder if he abandon us to our ſelves and our ſins, and the fruit thereof Calamity, Mi<g ref="char:EOLhyphen"/>ſery, Infamy, and Perdition; Wherefore ſince we ſee humane (or rather ſuch Inhumane) Cruelty is ever met with and puniſhed by divine <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſtice let us fly their Crimes that we may avoid their puniſh<g ref="char:EOLhyphen"/>ments, Reaſſuming our reaſons and recalling our wandering thoughts from Hell to Earth, purpoſely to Elevate them from Earth, and fix them on Hea<g ref="char:EOLhyphen"/>ven, and conſecrate them and our Souls from ſin to Righteouſneſs, from Satan to God, that ſo we may piouſly Live and peaceably die in this world and Gloriouſly Reign in that which is to come.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="advert_for_medicine">
+            <p>Dr. <hi>Bromfield's</hi> Pills againſt the <hi>Scurvey,</hi> and all other diſeaſes, are to be Sold by <hi>Thomas Hancox</hi> Bookſeller in <hi>Hereford.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
